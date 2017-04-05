@@ -1,0 +1,8 @@
+{
+  "name": "webpack2-treeshaking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:neolivz/webpack2-treeshaking.git",
+  "author": "Jishnu Viswanath <github@jishnu.me>",
+  "license": "MIT"
+}
